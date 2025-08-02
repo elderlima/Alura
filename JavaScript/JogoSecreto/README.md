@@ -20,10 +20,10 @@ Foi um primeiro passo, mas já com muita coisa aprendida. E o mais importante: c
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-# Link no Vercel
+## Link no Vercel
 https://elderjogosecreto.vercel.app/
 
-### 📜 Certificados
+## 📜 Certificados
 
 [![Certificado Carreira](certificados/certificado-carreira.png)](https://cursos.alura.com.br/certificate/af348b60-c44e-454a-8f21-32aaac3589f4?lang=pt_BR)
 
@@ -33,7 +33,7 @@ https://elderjogosecreto.vercel.app/
 
 [![Certificado Git e GitHub](certificados/certificado-git.png)](https://cursos.alura.com.br/certificate/93fa4d6b-1835-4c6d-a3b8-a35655f82079?lang=pt_BR)
 
-# Autor
+## LinkedIn
 
 |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/55960483?v=4" width="150"><br><sub>Elder dos Santos</sub>](https://github.com/elderlima)|
 | :---: |
