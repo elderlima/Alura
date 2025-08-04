@@ -25,13 +25,21 @@ https://elderjogosecreto.vercel.app/
 
 ## 📜 Certificados
 
-[![Certificado Carreira](certificados/certificado-carreira.png)](https://cursos.alura.com.br/certificate/af348b60-c44e-454a-8f21-32aaac3589f4?lang=pt_BR)
+<a href="https://cursos.alura.com.br/certificate/af348b60-c44e-454a-8f21-32aaac3589f4?lang=pt_BR">
+  <img src="certificados/certificado-carreira.png" alt="Certificado Carreira" width="400"/>
+</a>
 
-[![Certificado Lógica 1](certificados/certificado-logica1.png)](https://cursos.alura.com.br/certificate/15069135-5b38-4ecc-80d3-4d515de1a1d3?lang=pt_BR)
+<a href="https://cursos.alura.com.br/certificate/15069135-5b38-4ecc-80d3-4d515de1a1d3?lang=pt_BR">
+  <img src="certificados/certificado-logica1.png" alt="Certificado Lógica 1" width="400"/>
+</a>
 
-[![Certificado Lógica 2](certificados/certificado-logica2.png)](https://cursos.alura.com.br/certificate/c453e283-9c00-4b9d-bdee-ac1be6bb2172?lang=pt_BR)
+<a href="https://cursos.alura.com.br/certificate/c453e283-9c00-4b9d-bdee-ac1be6bb2172?lang=pt_BR">
+  <img src="certificados/certificado-logica2.png" alt="Certificado Lógica 2" width="400"/>
+</a>
 
-[![Certificado Git e GitHub](certificados/certificado-git.png)](https://cursos.alura.com.br/certificate/93fa4d6b-1835-4c6d-a3b8-a35655f82079?lang=pt_BR)
+<a href="https://cursos.alura.com.br/certificate/93fa4d6b-1835-4c6d-a3b8-a35655f82079?lang=pt_BR">
+  <img src="certificados/certificado-git.png" alt="Certificado Git e GitHub" width="400"/>
+</a>
 
 ## LinkedIn
 
