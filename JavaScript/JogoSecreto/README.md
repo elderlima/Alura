@@ -7,7 +7,7 @@ Participei de uma formação pela Alura que me guiou por importantes passos na c
 
 Teve aquelo treino na lógica de programação: como organizar instruções de forma clara para que o computador execute tarefas corretamente. Parece simples, mas é um verdadeiro exercício de raciocínio top! 🧠
 
-Além disso, mergulhei nas ferramentas essenciais como o Git e o GitHub — fundamentais para versionar e colaborar em projetos reais — e no VSCode, que já me familiarizei por sua versatilidade.
+Além disso, mergulhei nas ferramentas essenciais como o Git e o GitHub — fundamentais para versionar e colaborar em projetos reais — e no VSCode, um editor que já me familiarizei por sua versatilidade.
 
 E claro, também teve aquela reforçada em Front-End e Back-End, e como essas áreas se complementam na construção de sistemas que usamos todos os dias.
 
