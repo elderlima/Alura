@@ -4,7 +4,7 @@ function sortear() {
     // os dados de um documento HTML (document.)
     // este elemento que iremos utilizar será o ID (getElementById) que esta especificado entre parenteses
     // como também, este elemento precisa ser um número inteiro (parseInt)
-    // e deste elemento, iremos coletar apenas o valor (.value) que será inserido
+    // e deste elemento, iremos armazenar o valor (.value) que será inserido pelo usuário em nossa variável
     //
     let quantidade = parseInt(document.getElementById('quantidade').value);
     let de = parseInt(document.getElementById('de').value);
